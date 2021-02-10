@@ -4,6 +4,8 @@ This is task from RSschool (https://rs.school/js/)
 #### my realisation (https://thirsty-easley-eab5b1.netlify.app/)
 <img src="./images/image.JPG" width=100% height=40%>
 
+Проект по созданию виртуальной клавиатуры на основании видео уроков. Проект нацелен на усовершенствование работы с DOM, и знакомствао 
+с экспериментальной технологией распознавания голоса - SpeechRecognition.
 
 ##### Базовая функциональность:
 
@@ -80,13 +82,13 @@ This is task from RSschool (https://rs.school/js/)
     - Язык распознавания голоса en/ru меняется при переключении языка виртуальной клавиатуры
     - Голосовой ввод текста продолжается до тех пор, пока активна клавиша голосового ввода
 
-##### Материалы:
+#### Полезные ссылки:
+
    - [DOM - textbook](https://learn.javascript.ru/document)
    - [DOM - youtube](https://youtu.be/TewWd-6ZrmE)
    - [DOM Events](https://youtu.be/vcXehC9JgGU)
 
 ##### Live Coding:
-
    - [Virtual Keyboard (part 1)](https://youtu.be/nuQW_cBLR6Q)
    - [Virtual Keyboard (part 2)](https://youtu.be/dAxI351AhCg)
    - [Live coding project repo](https://github.com/xmelsky/virtual-keyboard-live)
