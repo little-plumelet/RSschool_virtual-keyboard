@@ -1,7 +1,7 @@
 # RSschool_virtual-keyboard
 This is task from RSschool (https://rs.school/js/)
 ## RSS Виртуальная клавиатура
-#### my realisation (https://vigilant-mcclintock-2c4c79.netlify.app/)
+#### my realisation (https://thirsty-easley-eab5b1.netlify.app/)
 <img src="./images/image.JPG" width=100% height=40%>
 
 
@@ -107,9 +107,8 @@ This is task from RSschool (https://rs.school/js/)
     - [Код - github] (https://github.com/wesbos/JavaScript30/tree/master/20%20-%20Speech%20Detection)
 
 ##### Озвучивание нажатия клавиш:
-
-    - [Demo] (https://js3001.github.io/)
-    - [Video tutorial] (https://youtu.be/VuN8qwZoego)
-    - [Код - github] (https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+    - [Demo]:(https://js3001.github.io/)
+    - [Video tutorial]:(https://youtu.be/VuN8qwZoego)
+    - [Код - github]:(https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
 
