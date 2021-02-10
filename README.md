@@ -81,28 +81,29 @@ This is task from RSschool (https://rs.school/js/)
     - Голосовой ввод текста продолжается до тех пор, пока активна клавиша голосового ввода
 
 ##### Материалы:
-    - [DOM - textbook] (https://learn.javascript.ru/document)
-    - [DOM - youtube] (https://youtu.be/TewWd-6ZrmE)
-    - [DOM Events] (https://youtu.be/vcXehC9JgGU)
+   - [DOM - textbook](https://learn.javascript.ru/document)
+   - [DOM - youtube](https://youtu.be/TewWd-6ZrmE)
+   - [DOM Events](https://youtu.be/vcXehC9JgGU)
 
 ##### Live Coding:
-    - [Virtual Keyboard (part 1)] (https://youtu.be/nuQW_cBLR6Q)
-    - [Virtual Keyboard (part 2)] (https://youtu.be/dAxI351AhCg)
-    - [Live coding project repo] (https://github.com/xmelsky/virtual-keyboard-live)
+
+   - [Virtual Keyboard (part 1)](https://youtu.be/nuQW_cBLR6Q)
+   - [Virtual Keyboard (part 2)](https://youtu.be/dAxI351AhCg)
+   - [Live coding project repo](https://github.com/xmelsky/virtual-keyboard-live)
     
-    - [Video tutorial] (https://youtu.be/N3cq0BHDMOY)
-    - [Код - github] (https://github.com/irinainina/ready-projects/tree/virtual-keyboard)
-    - [Demo] (https://irinainina.github.io/ready-projects/virtual-keyboard/)
+   - [Video tutorial](https://youtu.be/N3cq0BHDMOY)
+   - [Код - github](https://github.com/irinainina/ready-projects/tree/virtual-keyboard)
+   - [Demo](https://irinainina.github.io/ready-projects/virtual-keyboard/)
 
 ##### Голосовой ввод текста:
-    - [SpeechRecognition] (https://developer.mozilla.org/ru/docs/Web/API/SpeechRecognition)
-    - [Demo] (https://js3020.github.io/)
-    - [Video tutorial] (https://youtu.be/0mJC0A72Fnw)
-    - [Код - github] (https://github.com/wesbos/JavaScript30/tree/master/20%20-%20Speech%20Detection)
+   - [SpeechRecognition](https://developer.mozilla.org/ru/docs/Web/API/SpeechRecognition)
+   - [Demo](https://js3020.github.io/)
+   - [Video tutorial](https://youtu.be/0mJC0A72Fnw)
+   - [Код - github](https://github.com/wesbos/JavaScript30/tree/master/20%20-%20Speech%20Detection)
 
 ##### Озвучивание нажатия клавиш:
-    - [Demo]: https://js3001.github.io/
-    - [Video tutorial]: https://youtu.be/VuN8qwZoego
-    - [Код - github]: https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
+   - [Demo](https://js3001.github.io//)
+   - [Video tutorial](https://youtu.be/VuN8qwZoego)
+   - [Код - github](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
 
