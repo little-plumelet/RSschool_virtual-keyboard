@@ -5,7 +5,6 @@ This is task from RSschool (https://rs.school/js/)
 <img src="./images/image.JPG" width=100% height=40%>
 
 
-
 ##### Базовая функциональность:
 
     - При клике мышкой по клавишам с символами, эти символы отображаются в окне ввода текста. Есть клавиша пробел
@@ -91,11 +90,9 @@ This is task from RSschool (https://rs.school/js/)
     - [Virtual Keyboard (part 2)] (https://youtu.be/dAxI351AhCg)
     - [Live coding project repo] (https://github.com/xmelsky/virtual-keyboard-live)
     
-    
     - [Video tutorial] (https://youtu.be/N3cq0BHDMOY)
     - [Код - github] (https://github.com/irinainina/ready-projects/tree/virtual-keyboard)
     - [Demo] (https://irinainina.github.io/ready-projects/virtual-keyboard/)
-
 
 ##### Голосовой ввод текста:
     - [SpeechRecognition] (https://developer.mozilla.org/ru/docs/Web/API/SpeechRecognition)
